@@ -1,3 +1,4 @@
+A comparative machine learning case study evaluating K-Nearest Neighbors and Logistic Regression models for income prediction.
 # Income Prediction: Model Comparison (KNN vs. Logistic Regression)
 
 > **Project Objective:** A comparative analysis evaluating the performance, interpretability, and trade-offs between K-Nearest Neighbors and Logistic Regression classifiers on demographic data.
